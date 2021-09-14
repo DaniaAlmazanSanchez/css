@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+  
+ h1{
+     color:rgb(216, 52, 79);
+     text-align: center;
+
+ }
+ h2{
+    color:rgb(216, 52, 79);
+    text-align: center;
+ }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    margin: 20px 550px;
+    height: 23px;
+    width: 19%;
+    background-color: rgb(173, 54, 143);
+  
+      
+}
+img {
+    opacity: 0.5;
+  }

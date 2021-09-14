@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(128, 236, 240);
+}
+
+/*por etiqueta*/
+ h2{
+     color:palevioletred;
+     text-align: center;/*centra el texto*/
+     /*font-size: 32px; tamaño de letra*/
+ }
+ /* por clase*/
+ .p-lange{
+     font-size: 32px;
+ }
+ .color{
+     color: peru;
+     background-color: pink;
+ }
+ /*por id*/
+ h2{
+     color: rgb(43, 28, 30);
+ }
