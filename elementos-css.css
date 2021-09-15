@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    color: crimson;
+    background-color: darkcyan; /*color ala caja*/
+    border: 5px dotted pink;/*borde de la caja*/
+}
+.subtitulo{
+    background-color: burlywood;
+    color: aqua; 
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+}
+/*color de fondo de la xaja*/
+#caja, #caja2{
+    background-color: burlywood;
+}
+
+/*color de letra*/
+#caja p{
+    color: beige;
+}
