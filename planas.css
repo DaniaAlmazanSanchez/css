@@ -1,0 +1,19 @@
+#i{
+    font-family: 'Dancing Script', cursive;/*CSS rules to specify families de la letra*/
+    font-weight: 700;/*tamaño elegido del font gogle*/
+    color: blueviolet;
+    text-align: center;
+}
+#e{
+    font-family: 'Anton', sans-serif;
+    font-weight: 400;
+    color: chartreuse;
+    text-align: center;
+}
+#o{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    color: rgb(255, 0, 157);
+    text-align: center;
+    
+}
